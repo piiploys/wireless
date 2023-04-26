@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "504390574392",
+    "project_id": "uni-finder-me-d693b",
+    "storage_bucket": "uni-finder-me-d693b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504390574392:android:2c1e349e548c3b22c021cd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504390574392-vb8jbp26f7vl2h3r74nsg95badeneckr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xThxANPvefHIKGmqJjHx9rQL6z1yyKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504390574392-vb8jbp26f7vl2h3r74nsg95badeneckr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504390574392-02k0r13it0t4afa98gr4gt01qo9pg5ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
